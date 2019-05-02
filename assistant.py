@@ -71,7 +71,7 @@ if __name__ == '__main__':
             speak('okay')
             webbrowser.open('www.google.co.in')
 
-        elif 'open gmail' in query:
+        elif 'open games' in query:
             speak('okay')
             webbrowser.open('www.gmail.com')
 
